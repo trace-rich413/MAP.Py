@@ -1,0 +1,3 @@
+"""Python dependencies for MAP.Py."
+
+pyyaml>=5.4
