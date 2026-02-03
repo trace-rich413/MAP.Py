@@ -1,0 +1,24 @@
+"""Example scope file for MAP.Py v0.2."""
+
+project: demo
+targets:
+  - ip: 10.10.10.10
+    os: windows
+    hostname: ""
+    notes: "Service SME box"
+  - ip: 10.10.10.20
+    os: linux
+    hostname: "target-web"
+    notes: "Web application server"
+
+options:
+  output_root: outputs
+  timeout_sec: 600
+
+tools:
+  - name: nmap_top
+    enabled: true
+  - name: http_probe
+    enabled: true
+  - name: privesc_checklist
+    enabled: true
