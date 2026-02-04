@@ -1,3 +1,7 @@
+<p align="center">
+<img width="400" alt="Map py" src="https://github.com/user-attachments/assets/581a477d-4af6-4151-b303-b8d2080b73d4" />
+</p>
+
 # MAP.Py - Scope-Aware Recon + Enumeration Orchestrator
 **Scope in. Map out.**
 
