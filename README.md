@@ -1,4 +1,5 @@
 # MAP.Py - Scope-Aware Recon + Enumeration Orchestrator
+**Scope in. Map out.**
 
 MapPy (MAP.PY) is a recon + enumeration orchestrator designed for repeatable, scoped engagements. It wraps common CLI tools into a consistent workflow, captures evidence, normalizes outputs, and generates report-ready notes—so you spend less time copy-pasting and more time thinking.
 
